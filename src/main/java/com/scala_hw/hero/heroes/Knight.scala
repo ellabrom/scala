@@ -7,7 +7,8 @@ class Knight extends Hero {
 
   override var hp: Int = RandomUtil.getNumberBetween(2, 12)
 
-  override def kick(attacker: Hero): Unit = (new SwordKickTool).swordKick(attacker, this)
+  val sword = new SwordKickTool
+  override def kick(attacker: Hero): Unit = sword.swordKick(attacker, this)
 }
 
 
