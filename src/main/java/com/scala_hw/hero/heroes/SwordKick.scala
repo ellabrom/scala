@@ -2,7 +2,7 @@ package com.scala_hw.hero.heroes
 
 import com.scala_hw.hero.utils.RandomUtil
 
-class SwordKick {
+class SwordKickTool {
   def swordKick(attacker:Hero, defender:Hero): Unit = {
     val damage = RandomUtil.getNumberBetween(0, Math.max(attacker.power,0))
     val defenderName = defender.getClass.getSimpleName
