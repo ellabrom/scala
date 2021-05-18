@@ -1,4 +1,4 @@
-package com.demo.hero
+package com.scala_hw.hero
 
 import org.reflections.Reflections
 

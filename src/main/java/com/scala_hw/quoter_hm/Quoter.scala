@@ -1,6 +1,4 @@
-package com.demo.quoter_hm
-
-import com.demo.traits.Zoo
+package com.scala_hw.quoter_hm
 
 trait Quoter {
 

@@ -1,4 +1,4 @@
-package com.demo.hero.heroes
+package com.scala_hw.hero.heroes
 
 trait Hero {
 

@@ -1,8 +1,8 @@
 # Project exclude paths
 /target/
-/src/main/java/com/demo/inheritance/
-/src/main/java/com/demo/lets_try_to_find_out_why_we_need_additional_constructor/
-/src/main/java/com/demo/pattern_matching/
-/src/main/java/com/demo/reflections/
-/src/main/java/com/demo/traits/
+/src/main/java/com/scala_hw/inheritance/
+/src/main/java/com/scala_hw/lets_try_to_find_out_why_we_need_additional_constructor/
+/src/main/java/com/scala_hw/pattern_matching/
+/src/main/java/com/scala_hw/reflections/
+/src/main/java/com/scala_hw/traits/
 /src/main/java/com/generic/

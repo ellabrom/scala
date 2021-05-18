@@ -1,6 +1,6 @@
-package com.demo.hero.heroes
+package com.scala_hw.hero.heroes
 
-import com.demo.hero.utils.RandomUtil
+import com.scala_hw.hero.utils.RandomUtil
 
 class Knight extends Hero {
   override var power: Int = RandomUtil.getNumberBetween(2, 12)

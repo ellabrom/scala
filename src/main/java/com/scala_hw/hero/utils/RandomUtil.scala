@@ -1,6 +1,6 @@
-package com.demo.hero.utils
+package com.scala_hw.hero.utils
 
-import com.demo.hero.heroes.Hero
+import com.scala_hw.hero.heroes.Hero
 
 
 object RandomUtil {

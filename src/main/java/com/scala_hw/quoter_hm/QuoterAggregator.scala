@@ -1,4 +1,4 @@
-package com.demo.quoter_hm
+package com.scala_hw.quoter_hm
 
 object QuoterAggregator {
   private var quotes : scala.List[Quoter] = Nil

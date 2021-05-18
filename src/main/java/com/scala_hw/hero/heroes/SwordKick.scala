@@ -1,6 +1,6 @@
-package com.demo.hero.heroes
+package com.scala_hw.hero.heroes
 
-import com.demo.hero.utils.RandomUtil
+import com.scala_hw.hero.utils.RandomUtil
 
 class SwordKick {
   def SwordKick(attacker:Hero, defender:Hero): Unit = {

@@ -1,4 +1,4 @@
-package com.demo.hero.heroes
+package com.scala_hw.hero.heroes
 
 class Elf extends Hero {
   override var power: Int = 10

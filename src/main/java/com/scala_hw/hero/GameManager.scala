@@ -1,6 +1,6 @@
-package com.demo.hero
+package com.scala_hw.hero
 
-import com.demo.hero.factory.HeroFactory
+import com.scala_hw.hero.factory.HeroFactory
 
 class GameManager {
   private val heroFactory = new HeroFactory
